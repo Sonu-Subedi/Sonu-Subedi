@@ -1,4 +1,4 @@
-<center> <img  src ="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" align ="middle" width="200"> </center>
+<center><img  src ="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" align ="middle" width="200"></center>
 <h1 align="center">Hi 👋, I'm Sonu Subedi</h1>
 <h3 align="center">A passionate Frontend Developer (mainly React) from Nepal.</h3>
 
