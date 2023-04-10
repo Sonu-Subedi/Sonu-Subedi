@@ -4,7 +4,7 @@
   
 🌱 I’m currently learning **React JSX** <br>
 
-💬 Ask me about **React** <br>
+
 
 📫 How to reach me **subedisonu03@gmail.com** <br>
 
